@@ -6,7 +6,6 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojimi&count_bg=%23265543&title_bg=%23898989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hellojimi)
 
   <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-  </br>
   <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
