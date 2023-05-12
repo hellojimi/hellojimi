@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>Hi there 👋</h2>
+  
+  <h3>Hi there</h3>
+  <p>I'm Jimin Lee, a Backend developer🌱</p>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojimi&count_bg=%23265543&title_bg=%23898989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hellojimi)
 
-  <!-- ![disney](https://url.kr/eqriv7) -->
-  <!-- <img src="https://url.kr/eqriv7" width="60%" height="60%"> -->
 <!--
 **hellojimi/hellojimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
